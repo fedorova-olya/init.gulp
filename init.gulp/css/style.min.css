@@ -1,0 +1,1 @@
+body{font-size:15px;display:grid}.no-webp body div{background:url(../img/image.jpg) 0 0 no-repeat}body p{color:red;font-size:30px}h1{font-size:21px}@media (max-width:993px){body p{font-size:15px}}@media (max-width:767px){h1{font-size:15px}}.webp body div{background:url(../img/image.webp) 0 0 no-repeat}

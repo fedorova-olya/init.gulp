@@ -1,4 +1,5 @@
-//@@include('alert.js');
+//alert('hello')
+;
 function testWebP(callback) {
 
   var webP = new Image();
