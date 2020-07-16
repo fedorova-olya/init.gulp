@@ -11,24 +11,3 @@
 
 @import 'fonts';
 
-body {
-  font-size: 15px;
-  display: grid;
-  div {
-    background: url('../img/image.jpg') 0 0 no-repeat;
-  }
-  p {
-    color: red;
-    font-size: 30px;
-    @media (max-width: 993px) {
-      font-size: 15px;
-    }
-  }
-}
-
-h1 {
-  font-size: 21px;
-  @media (max-width: 767px) {
-    font-size: 15px;
-  }
-}
